@@ -9,7 +9,7 @@
     "keywords": [
       "json-server,azure, node, REST API"
     ],
-    "author": "FJSilvaSenac",
+    "author": "Willy",
     "license": "ISC",
     "dependencies": {
       "json-server": "^0.17.0"
